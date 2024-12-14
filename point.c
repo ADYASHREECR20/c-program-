@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-struct point {  // Define a structure to store student details
+struct point {  
     int x; 
     int y; }a,b ;
 float distance(struct point a, struct point b){
